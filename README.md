@@ -1,4 +1,5 @@
 ### 1. Stop/shutdown your wallet client if it is running.
+
 ### 2. Navigate to your GenesisX data directory as shown below:
 
 #### Your GenesisX data directory stores your blockchain, configuration, wallet, and masternode data.  By default, they are located in the following locations for each OS type:
@@ -23,6 +24,7 @@ Open a finder window, then select the "Go" dropdown menu. In this menu please pr
 ~/.genesisx
 
 (/Users/YourUserName/.genesisx)
+
 
 
 ### 3. Delete ONLY the 4 folders and 1 file shown below:

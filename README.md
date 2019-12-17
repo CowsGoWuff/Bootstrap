@@ -1,5 +1,6 @@
 ### 1. Stop/shutdown your wallet client if it is running.
 <br/>
+
 ### 2. Navigate to your GenesisX data directory as shown below:
 
 #### Your GenesisX data directory stores your blockchain, configuration, wallet, and masternode data.  By default, they are located in the following locations for each OS type:

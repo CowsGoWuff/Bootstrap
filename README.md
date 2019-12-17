@@ -25,10 +25,10 @@ Open a finder window, then select the "Go" dropdown menu. In this menu please pr
 (/Users/YourUserName/.genesisx)
 
 
-### 3. Delete ONLY the 4 folders and 2 files shown below
-### (blocks, chainstate, sporks, zerocoin, banlist.dat, and peers.dat) folders from your data directory.
+### 3. Delete ONLY the 4 folders and 1 file shown below:
+### (blocks, chainstate, sporks, zerocoin, and peers.dat) folders from your data directory.
 ### (Do NOT delete backups or wallet.dat)
-### 4. Download the latest bootstrap from here
-### 5. Extract the bootstrap zip file you just downloaded and you will see a file called "bootstrap.zip"
-### 6. Place the "bootstrap.zip" file in your data directory
+### 4. Download the latest bootstrap from [here](http://downloads.genesisx.network/bootstrap.zip)
+### 5. Extract the bootstrap zip file you just downloaded to your desktop or elsewhere and you will see a file called "bootstrap"
+### 6. Open the "bootstrap" file and drag all contents into your GenesisX data directory
 ### 7. Start your wallet client.

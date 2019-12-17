@@ -25,6 +25,7 @@ Open a finder window, then select the "Go" dropdown menu. In this menu please pr
 ~/.genesisx
 
 (/Users/YourUserName/.genesisx)
+
 <br/>
 
 ### 3. Delete ONLY the 4 folders and 1 file shown below:

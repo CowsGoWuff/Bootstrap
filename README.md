@@ -1,8 +1,7 @@
 1. Stop/shutdown your wallet client if it is running.
 2. Navigate to your GenesisX data directory as shown below:
-    Your GenesisX data directory stores your blockchain, configuration, wallet, and masternode data.  By default, they are located in the following locations for each OS type:
 
-
+# Your GenesisX data directory stores your blockchain, configuration, wallet, and masternode data.  By default, they are located in the following locations for each OS type:
 
 ## Windows
 Go to Start > Run > %APPDATA%\GenesisX
@@ -10,7 +9,7 @@ Go to Start > Run > %APPDATA%\GenesisX
 
 or C:\Users\%username%\AppData\Roaming\GenesisX
 
-(Hidden folder "AppData" - How to view hidden folders on Windows)
+(Hidden folder "AppData" - [How to view hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/))
 
 
 ## OSX (MacOS)

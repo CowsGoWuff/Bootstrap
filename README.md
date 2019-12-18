@@ -1,4 +1,4 @@
-<img src="https://genesisx.network/img/logo-small.png" alt="GenesisX Logo" width="450" height="636">
+<img src="https://genesisx.network/img/logo-small.png" alt="GenesisX Logo" width="100" height="100">
 
 ### 1. Stop/shutdown your wallet client if it is running.
 <br/>

@@ -32,7 +32,7 @@ Open a finder window, then select the "Go" dropdown menu. In this menu please pr
 
 ### 3. Delete ONLY the 4 folders and 1 file shown below:
 ### (blocks, chainstate, sporks, zerocoin, and peers.dat) folders from your data directory.
-### (Do NOT delete backups or wallet.dat)
+### (**Do NOT delete backups or wallet.dat**)
 
 <img src="http://downloads.genesisx.network/folder.png" alt="GenesisX Folder" width="450" height="636">
 

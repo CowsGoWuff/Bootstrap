@@ -11,7 +11,7 @@
 Go to Start > Run > %APPDATA%\GenesisX
 (or just enter the above path in explorer)
 
-or C:\Users\%username%\AppData\Roaming\GenesisX
+or C:\Users\\%username%\AppData\Roaming\GenesisX
 
 (Hidden folder "AppData" - [How to view hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/))
 

@@ -34,7 +34,7 @@ Open a finder window, then select the "Go" dropdown menu. In this menu please pr
 ### (blocks, chainstate, sporks, zerocoin, and peers.dat) folders from your data directory.
 ### (**Do NOT delete backups or wallet.dat**)
 
-<img src="http://downloads.genesisx.network/folder.png" alt="GenesisX Folder" width="450" height="636">
+<img src="http://downloads.genesisx.network/folder.png" alt="GenesisX Folder" width="450" height="auto">
 
 ### 4. Download the latest bootstrap from [here](http://downloads.genesisx.network/bootstrap.zip)
 ### 5. Extract the bootstrap zip file you just downloaded to your desktop or elsewhere and you will see a file called "bootstrap"

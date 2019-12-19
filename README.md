@@ -9,24 +9,15 @@
 
 ## Windows
 Go to Start > Run > %APPDATA%\GenesisX
-(or just enter the above path in explorer)
-
-or C:\Users\\%username%\AppData\Roaming\GenesisX
 
 (Hidden folder "AppData" - [How to view hidden folders on Windows](https://www.howtogeek.com/howto/windows-vista/show-hidden-files-and-folders-in-windows-vista/))
 
 
 ## OSX (MacOS)
-Open a finder window, then select the "Go" dropdown menu. In this menu please press the "Go to Folder..." option. In the window that opens type: ~/Library/Application Support/GenesisX and press enter. If the folder cannot be found please repeat the steps and enter: ~/.genesisx
-
-~/Library/Application\ Support/GenesisX
-(/Users/YourUserName/Library/Application\ Support/GenesisX)
+Open a finder window, then select the "Go" dropdown menu. In this menu please press the "Go to Folder..." option. In the window that opens type: ~/Library/Application Support/GenesisX and press enter.
 
 ## MacOS High Sierra Only
-
-~/.genesisx
-
-(/Users/YourUserName/.genesisx)
+/Users/YourUserName/.genesisx
 
 <br/>
 
